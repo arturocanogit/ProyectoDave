@@ -7,3 +7,6 @@ Console.WriteLine("This is an updated version of the console application.");
 Console.WriteLine("Goodbye, World!");
 
 Console.WriteLine("This line was added in the latest update.");
+
+Clase clase = new Clase();
+int resultado = clase.Sumar(5, 7);

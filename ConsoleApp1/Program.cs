@@ -17,3 +17,6 @@ int resultado = clase.Sumar(5, 7);
 
 Console.WriteLine($"The sum of 5 and 7 is: {resultado}");
 
+Console.WriteLine($"The sum of 5 and 7 is: {resultado}");
+
+
